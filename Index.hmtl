@@ -12,62 +12,65 @@
             rel="stylesheet"
         >
         <link rel="stylesheet" href="style.css">
+        <body>
+            <div class="gallery">
+                <article class="card">
+                    <a href="https://franklinwater.com.br">
+                    <figure>
+                        <img
+                            src="https://encurtador.com.br/otBCG"
+                            alt="Franklin Eletric"
+                        >
+                    </a>
+                        <figcaption>
+                          <h3>Franklin Eletric</h3>
+                        </figcaption>
+                    </figure>
+                </article>
+                <article class="card">
+                    <a href="https://leao.com.br">
+                    <figure>
+                        <img
+                            src="https://encurtador.com.br/pK248"
+                            alt="Bombas Leão"
+                        >
+                    </a>    
+                        <figcaption>
+                            <h3>Bombas Leão</h3>
+                        </figcaption>
+                    </figure>
+                </article>
+                <article class="card">
+                    <a href="https://www.makita.com.br">
+                    <figure>
+                        <img
+                            src="https://encurtador.com.br/GZ147"
+                            alt="Makita"
+                        >
+                    </a>   
+                        <figcaption>
+                            <h3>Makita</h3>
+                        </figcaption>
+                    </figure>
+                </article>
+                <article class="card">
+                    <a href="https://www.stihl.com.br">
+                    <figure>
+                        <img
+                            src="https://encurtador.com.br/nAEIL"
+                            alt="STIHL"
+                        >
+                    </a>   
+                        <figcaption>
+                            <h3>STIHL</h3>
+                        </figcaption>
+                    </figure>
+                </article>
+                <!-- Pictures from Freepik -->
+            </div>            
+        </body>
     </head>
     <body>
-        <div class="gallery">
-            <article class="card">
-                <figure>
-                    <img
-                        src="https://encurtador.com.br/otBCG"
-                        alt="Franklin Eletric"
-                    >
-                    <figcaption>
-                        <h3>Franklin Eletric</h3>
-                    </figcaption>
-                </figure>
-            </article>
-            <article class="card">
-                <figure>
-                    <img
-                        src="https://encurtador.com.br/pK248"
-                        alt="Bombas Leão"
-                    >
-                    <figcaption>
-                        <h3>Bombas Leão</h3>
-                    </figcaption>
-                </figure>
-            </article>
-            <article class="card">
-                <figure>
-                    <img
-                        src="https://encurtador.com.br/GZ147"
-                        alt="Makita"
-                    >
-                    <figcaption>
-                        <h3>Makita</h3>
-                    </figcaption>
-                </figure>
-            </article>
-            <article class="card">
-                <figure>
-                    <img
-                        src="https://encurtador.com.br/nAEIL"
-                        alt="STIHL"
-                    >
-                    <figcaption>
-                        <h3>STIHL</h3>
-                    </figcaption>
-                </figure>
-            </article>
-            <!-- Pictures from Freepik -->
-        </div>            
+
     </body>
 </html>
-
-
-
-
-<!-- 
-
-      
- -->
